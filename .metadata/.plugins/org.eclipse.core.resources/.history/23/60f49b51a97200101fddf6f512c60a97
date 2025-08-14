@@ -1,0 +1,49 @@
+package com.sample.Controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.sample.Repos.UsersRepo;
+
+@Controller
+public class AccountsController {
+	
+	@Autowired
+	UsersRepo repo;
+
+	@GetMapping("/login")
+	public String login()
+	{
+		return "login";
+	}
+	
+	@PostMapping("/login")
+	public String ValidateLogin(String username,String password)
+	{
+		System.out.println(username);
+		System.out.println(password);
+		
+		
+		return "login";
+	}
+	
+	@GetMapping("/home")
+	public String home()
+	{
+		return "home";
+	}
+	
+	@GetMapping("/user/profile")
+	public String userProfile()
+	{
+		return "user-profile";
+	}
+	
+	@GetMapping("/admin/dashboard")
+	public String adminDashboard()
+	{
+		return "admin-dashboard";
+	}
+}

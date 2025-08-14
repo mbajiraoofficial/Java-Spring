@@ -1,0 +1,224 @@
+2025-08-05 11:19:53 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:19:53 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:19:53 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:19:53 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-08-05 11:19:53 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-08-05 11:19:54 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:19:54 - Starting service [Tomcat]
+2025-08-05 11:19:54 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:19:54 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:19:54 - Root WebApplicationContext: initialization completed in 1058 ms
+2025-08-05 11:19:55 - LiveReload server is running on port 35729
+2025-08-05 11:19:55 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:19:55 - Started LoggingDemoApplication in 2.193 seconds (process running for 3.061)
+2025-08-05 11:20:10 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-05 11:20:10 - Initializing Servlet 'dispatcherServlet'
+2025-08-05 11:20:10 - Completed initialization in 1 ms
+2025-08-05 11:20:10 - GET REQUEST Processed for Id:6
+2025-08-05 11:32:45 - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2025-08-05 11:32:45 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:32:45 - Graceful shutdown complete
+2025-08-05 11:32:45 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:32:45 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:32:45 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:32:46 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:32:46 - Starting service [Tomcat]
+2025-08-05 11:32:46 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:32:46 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:32:46 - Root WebApplicationContext: initialization completed in 922 ms
+2025-08-05 11:32:47 - LiveReload server is running on port 35729
+2025-08-05 11:32:47 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:32:47 - Started LoggingDemoApplication in 1.375 seconds (process running for 774.819)
+2025-08-05 11:32:47 - Condition evaluation unchanged
+2025-08-05 11:32:48 - Restarting due to 6 class path changes (0 additions, 5 deletions, 1 modification)
+2025-08-05 11:32:48 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:32:48 - Graceful shutdown complete
+2025-08-05 11:32:51 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:32:51 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:32:51 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:32:51 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:32:51 - Starting service [Tomcat]
+2025-08-05 11:32:51 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:32:51 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:32:51 - Root WebApplicationContext: initialization completed in 145 ms
+2025-08-05 11:32:51 - LiveReload server is running on port 35729
+2025-08-05 11:32:51 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:32:51 - Started LoggingDemoApplication in 0.219 seconds (process running for 779.255)
+2025-08-05 11:32:51 - Condition evaluation unchanged
+2025-08-05 11:34:02 - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-08-05 11:34:02 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:34:02 - Graceful shutdown complete
+2025-08-05 11:34:03 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:34:03 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:34:03 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:34:03 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:34:03 - Starting service [Tomcat]
+2025-08-05 11:34:03 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:34:03 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:34:03 - Root WebApplicationContext: initialization completed in 163 ms
+2025-08-05 11:34:03 - LiveReload server is running on port 35729
+2025-08-05 11:34:03 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:34:03 - Started LoggingDemoApplication in 0.264 seconds (process running for 851.053)
+2025-08-05 11:34:03 - Condition evaluation unchanged
+2025-08-05 11:34:56 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-08-05 11:34:56 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:34:56 - Graceful shutdown complete
+2025-08-05 11:34:56 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:34:56 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:34:56 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:34:56 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:34:56 - Starting service [Tomcat]
+2025-08-05 11:34:56 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:34:56 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:34:56 - Root WebApplicationContext: initialization completed in 134 ms
+2025-08-05 11:34:56 - LiveReload server is running on port 35729
+2025-08-05 11:34:56 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:34:56 - Started LoggingDemoApplication in 0.213 seconds (process running for 904.589)
+2025-08-05 11:34:56 - Condition evaluation unchanged
+2025-08-05 11:36:04 - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-08-05 11:36:04 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:36:04 - Graceful shutdown complete
+2025-08-05 11:36:04 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:36:04 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:36:04 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:36:04 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:36:04 - Starting service [Tomcat]
+2025-08-05 11:36:04 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:36:04 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:36:04 - Root WebApplicationContext: initialization completed in 158 ms
+2025-08-05 11:36:04 - LiveReload server is running on port 35729
+2025-08-05 11:36:04 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:36:04 - Started LoggingDemoApplication in 0.262 seconds (process running for 972.419)
+2025-08-05 11:36:04 - Condition evaluation unchanged
+2025-08-05 11:36:17 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-08-05 11:36:17 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:36:17 - Graceful shutdown complete
+2025-08-05 11:36:17 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:36:17 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:36:17 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:36:17 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:36:17 - Starting service [Tomcat]
+2025-08-05 11:36:17 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:36:17 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:36:17 - Root WebApplicationContext: initialization completed in 146 ms
+2025-08-05 11:36:17 - LiveReload server is running on port 35729
+2025-08-05 11:36:17 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:36:17 - Started LoggingDemoApplication in 0.219 seconds (process running for 985.265)
+2025-08-05 11:36:17 - Condition evaluation unchanged
+2025-08-05 11:36:20 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-08-05 11:36:20 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:36:20 - Graceful shutdown complete
+2025-08-05 11:36:21 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:36:21 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:36:21 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:36:21 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:36:21 - Starting service [Tomcat]
+2025-08-05 11:36:21 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:36:21 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:36:21 - Root WebApplicationContext: initialization completed in 134 ms
+2025-08-05 11:36:21 - LiveReload server is running on port 35729
+2025-08-05 11:36:21 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:36:21 - Started LoggingDemoApplication in 0.202 seconds (process running for 988.972)
+2025-08-05 11:36:21 - Condition evaluation unchanged
+2025-08-05 11:38:20 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-08-05 11:38:20 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:38:20 - Graceful shutdown complete
+2025-08-05 11:38:20 - Starting LoggingDemoApplication using Java 21.0.7 with PID 16988 (C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo\target\classes started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:38:20 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:38:20 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:38:20 - Tomcat initialized with port 8080 (http)
+2025-08-05 11:38:20 - Starting service [Tomcat]
+2025-08-05 11:38:20 - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-05 11:38:20 - Initializing Spring embedded WebApplicationContext
+2025-08-05 11:38:20 - Root WebApplicationContext: initialization completed in 149 ms
+2025-08-05 11:38:21 - LiveReload server is running on port 35729
+2025-08-05 11:38:21 - Tomcat started on port 8080 (http) with context path '/'
+2025-08-05 11:38:21 - Started LoggingDemoApplication in 0.249 seconds (process running for 1108.797)
+2025-08-05 11:38:21 - Condition evaluation unchanged
+2025-08-05 11:48:19 - Application shutdown requested.
+2025-08-05 11:48:19 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-05 11:48:19 - Graceful shutdown complete
+2025-08-05 11:48:49 - Starting LoggingDemoApplicationTests using Java 21.0.7 with PID 1716 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:48:49 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:48:49 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:48:51 - Started LoggingDemoApplicationTests in 2.094 seconds (process running for 3.93)
+2025-08-05 11:48:52 - Could not detect default configuration classes for test class [com.sample.OrdersControllerTest]: OrdersControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-08-05 11:48:52 - Found @SpringBootConfiguration com.sample.LoggingDemoApplication for test class com.sample.OrdersControllerTest
+2025-08-05 11:48:52 - Restart disabled due to context in which it is running
+2025-08-05 11:48:52 - Starting OrdersControllerTest using Java 21.0.7 with PID 1716 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:48:52 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:48:52 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:48:53 - Initializing Spring TestDispatcherServlet ''
+2025-08-05 11:48:53 - Initializing Servlet ''
+2025-08-05 11:48:53 - Completed initialization in 1 ms
+2025-08-05 11:48:53 - Started OrdersControllerTest in 0.38 seconds (process running for 5.68)
+2025-08-05 11:49:52 - Starting LoggingDemoApplicationTests using Java 21.0.7 with PID 14484 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:49:52 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:49:52 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:49:54 - Started LoggingDemoApplicationTests in 2.231 seconds (process running for 3.84)
+2025-08-05 11:49:55 - Could not detect default configuration classes for test class [com.sample.OrdersControllerTest]: OrdersControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-08-05 11:49:55 - Found @SpringBootConfiguration com.sample.LoggingDemoApplication for test class com.sample.OrdersControllerTest
+2025-08-05 11:49:55 - Restart disabled due to context in which it is running
+2025-08-05 11:49:55 - Starting OrdersControllerTest using Java 21.0.7 with PID 14484 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:49:55 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:49:55 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:49:55 - Initializing Spring TestDispatcherServlet ''
+2025-08-05 11:49:55 - Initializing Servlet ''
+2025-08-05 11:49:55 - Completed initialization in 1 ms
+2025-08-05 11:49:55 - Started OrdersControllerTest in 0.372 seconds (process running for 5.243)
+2025-08-05 11:50:53 - Starting LoggingDemoApplicationTests using Java 21.0.7 with PID 18696 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:50:53 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:50:53 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:50:55 - Started LoggingDemoApplicationTests in 2.035 seconds (process running for 3.536)
+2025-08-05 11:50:56 - Could not detect default configuration classes for test class [com.sample.OrdersControllerTest]: OrdersControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-08-05 11:50:56 - Found @SpringBootConfiguration com.sample.LoggingDemoApplication for test class com.sample.OrdersControllerTest
+2025-08-05 11:50:56 - Restart disabled due to context in which it is running
+2025-08-05 11:50:56 - Starting OrdersControllerTest using Java 21.0.7 with PID 18696 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 11:50:56 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 11:50:56 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 11:50:56 - Initializing Spring TestDispatcherServlet ''
+2025-08-05 11:50:56 - Initializing Servlet ''
+2025-08-05 11:50:56 - Completed initialization in 1 ms
+2025-08-05 11:50:56 - Started OrdersControllerTest in 0.31 seconds (process running for 4.902)
+2025-08-05 12:37:06 - Starting LoggingDemoApplicationTests using Java 21.0.7 with PID 9016 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 12:37:06 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 12:37:06 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 12:37:09 - Started LoggingDemoApplicationTests in 3.604 seconds (process running for 6.111)
+2025-08-05 12:37:10 - Could not detect default configuration classes for test class [com.sample.OrdersControllerTest]: OrdersControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-08-05 12:37:10 - Found @SpringBootConfiguration com.sample.LoggingDemoApplication for test class com.sample.OrdersControllerTest
+2025-08-05 12:37:10 - Restart disabled due to context in which it is running
+2025-08-05 12:37:10 - Starting OrdersControllerTest using Java 21.0.7 with PID 9016 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 12:37:10 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 12:37:10 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 12:37:11 - Initializing Spring TestDispatcherServlet ''
+2025-08-05 12:37:11 - Initializing Servlet ''
+2025-08-05 12:37:11 - Completed initialization in 2 ms
+2025-08-05 12:37:11 - Started OrdersControllerTest in 0.511 seconds (process running for 8.183)
+2025-08-05 12:37:33 - Starting LoggingDemoApplicationTests using Java 21.0.7 with PID 14628 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 12:37:33 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 12:37:33 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 12:37:36 - Started LoggingDemoApplicationTests in 3.526 seconds (process running for 6.017)
+2025-08-05 12:37:37 - Could not detect default configuration classes for test class [com.sample.OrdersControllerTest]: OrdersControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-08-05 12:37:37 - Found @SpringBootConfiguration com.sample.LoggingDemoApplication for test class com.sample.OrdersControllerTest
+2025-08-05 12:37:37 - Restart disabled due to context in which it is running
+2025-08-05 12:37:38 - Starting OrdersControllerTest using Java 21.0.7 with PID 14628 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 12:37:38 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 12:37:38 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 12:37:38 - Initializing Spring TestDispatcherServlet ''
+2025-08-05 12:37:38 - Initializing Servlet ''
+2025-08-05 12:37:38 - Completed initialization in 1 ms
+2025-08-05 12:37:38 - Started OrdersControllerTest in 0.485 seconds (process running for 8.026)
+2025-08-05 12:51:10 - Starting LoggingDemoApplicationTests using Java 21.0.7 with PID 19064 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 12:51:10 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 12:51:10 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 12:51:13 - Started LoggingDemoApplicationTests in 3.393 seconds (process running for 6.089)
+2025-08-05 12:51:14 - Could not detect default configuration classes for test class [com.sample.OrdersControllerTest]: OrdersControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-08-05 12:51:14 - Found @SpringBootConfiguration com.sample.LoggingDemoApplication for test class com.sample.OrdersControllerTest
+2025-08-05 12:51:14 - Restart disabled due to context in which it is running
+2025-08-05 12:51:14 - Starting OrdersControllerTest using Java 21.0.7 with PID 19064 (started by Training in C:\Users\Training\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\LoggingDemo)
+2025-08-05 12:51:14 - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-08-05 12:51:14 - No active profile set, falling back to 1 default profile: "default"
+2025-08-05 12:51:15 - Initializing Spring TestDispatcherServlet ''
+2025-08-05 12:51:15 - Initializing Servlet ''
+2025-08-05 12:51:15 - Completed initialization in 2 ms
+2025-08-05 12:51:15 - Started OrdersControllerTest in 0.512 seconds (process running for 8.212)

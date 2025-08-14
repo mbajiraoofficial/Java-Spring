@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>Login</title>
+	</head>
+	<body>
+		<h1>User Login Google</h1>
+		<a href="/oauth2/authorization/google">Login</a>
+		
+	</body>
+</html>

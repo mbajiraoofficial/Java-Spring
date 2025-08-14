@@ -1,0 +1,5 @@
+package com.sample.Config;
+
+public class AppConfig {
+
+}

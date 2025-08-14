@@ -1,0 +1,9 @@
+package com.sample.Models;
+
+public class EmployeeResponse {
+	private int id;
+	private String name;
+	private int age;
+	private String email;
+	private AddressResponse address;
+}

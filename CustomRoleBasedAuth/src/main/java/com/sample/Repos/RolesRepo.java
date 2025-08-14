@@ -1,0 +1,15 @@
+package com.sample.Repos;
+
+import java.util.Optional;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.sample.Models.Role;
+
+
+@Repository
+public interface RolesRepo extends JpaRepository<Role, Integer> {
+	
+	Optional<Role> findByName(String name);
+}

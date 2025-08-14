@@ -1,0 +1,16 @@
+package com.sample.Models;
+
+import java.util.HashSet;
+import java.util.Set;
+
+
+import jakarta.persistence.ManyToMany;
+
+public class User {
+	private int id;
+	private String username;
+	private String password;
+	
+	@ManyToMany
+	private Set<Role> roles=new HashSet<>();
+}

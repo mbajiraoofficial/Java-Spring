@@ -1,0 +1,15 @@
+package com.sample.Models;
+
+import java.util.HashSet;
+import java.util.Set;
+
+import jakarta.persistence.*;
+
+public class User {
+	private int id;
+	private String username;
+	private String password;
+	
+	@ManyToMany(fetch = FetchType.EAGER)
+	private Set<Role> roles=new HashSet<>();
+}

@@ -1,0 +1,13 @@
+package com.sample;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TestController {
+
+	public String printmessage(@PathVariable int id)
+	{
+		return "Received Id:"+id;
+	}
+}

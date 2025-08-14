@@ -1,0 +1,11 @@
+package com.sample.UnitTestDemo;
+
+public class ArithematicTest {
+	Arithematic ar=new Arithematic();
+	
+	void TestSum()
+	{
+		
+	}
+
+}

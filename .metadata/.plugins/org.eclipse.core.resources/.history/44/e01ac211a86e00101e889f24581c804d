@@ -1,0 +1,9 @@
+package com.sample.Repos;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.sample.Models.Address;
+
+public interface AddressRepo extends JpaRepository<Address, Integer> {
+
+}

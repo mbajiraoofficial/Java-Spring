@@ -1,0 +1,25 @@
+package com.sample.Config;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
+
+import com.sample.Repos.RolesRepo;
+import com.sample.Repos.UsersRepo;
+
+@Component
+public class DataInitializer implements CommandLineRunner {
+	
+	@Autowired
+	private RolesRepo rRepo;
+	
+	@Autowired
+	private UsersRepo uRepo;
+
+	@Override
+	public void run(String... args) throws Exception {
+		
+		
+	}
+
+}

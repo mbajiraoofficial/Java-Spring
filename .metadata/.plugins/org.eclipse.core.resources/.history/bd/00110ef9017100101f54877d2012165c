@@ -1,0 +1,11 @@
+package com.sample.Models;
+
+import jakarta.persistence.*;
+
+@Entity
+@Table(name="Roles")
+public class Role {
+	private int id;
+	private String name;
+	
+}

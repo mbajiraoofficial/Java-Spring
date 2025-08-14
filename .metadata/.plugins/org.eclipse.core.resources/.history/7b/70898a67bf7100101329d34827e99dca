@@ -1,0 +1,13 @@
+spring.application.name=LoggingDemo
+
+
+logging.level.root=INFO
+logging.levele.com.sample=DEBUG
+
+logging.file.name=logs/app.log
+
+logging.pattern.console=%d{yyyy-MM-dd HH:mm:ss} - %msg%n
+
+logging.pattern.file=%d{yyyy-MM-dd HH:mm:ss} - %msg%n
+
+

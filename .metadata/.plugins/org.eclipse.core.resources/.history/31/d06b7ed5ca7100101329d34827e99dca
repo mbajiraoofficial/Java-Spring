@@ -1,0 +1,33 @@
+package com.sample;
+
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.test.web.servlet.MockMvc;
+
+import com.sample.Controllers.*;
+
+@WebMvcTest(OrdersController.class)
+public class OrdersControllerTest {
+
+	@Autowired
+	private MockMvc mockmvc;
+	
+	@Test
+	void testGetAllOrders() throws Exception{
+		mockmvc.perform(get("/api/orders"))
+		.andExpect(status().isOk())
+		.andExpect(jsonPath("$.size()").value(2));
+	}
+	
+	@Test
+	void testgetOrderDetailsById() throws Exception
+	{
+		mockmvc.perform(get("/api/orders/1"))
+		.andExpect(status().isOk());
+	}
+}

@@ -1,0 +1,38 @@
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<title>User Login</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+		
+	</head>
+	<body class="p-4">
+		<div class="container">
+			<h2 class="mb-4">Login</h2>
+			
+			<form method="post" th:action="@{/login}">
+				<div class="mb-3">
+					<label for="userid" class="form-label">UserId</label>
+					<input type="text" name="userid" id="userid"
+					class="form-control" required/>
+				</div>
+				<div class="mb-3">
+					<label for="password" class="form-label">Password</label>
+					<input type="password" name="password" id="password"
+					class="form-control" required/>
+				</div>
+						
+			
+				<button type="reset" class="btn btn-warning">Reset</button>
+				<button type="submit" class="btn btn-primary">Login</button>
+			</form>
+			
+			
+			<div th:if="${error}" class="alert alert-danger"
+			 th:text="${error}">
+			</div>
+			<div th:if="${param.expired}" class="alert alert-warning">
+					Your Sesson is Expired! Please Login to Continue
+				</div>	
+		</div>
+	</body>
+	
+</html>

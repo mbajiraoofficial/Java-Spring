@@ -1,0 +1,16 @@
+package com.sample.UnitTestDemo;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+public class ArithematicTest {
+	Arithematic ar=new Arithematic();
+	
+	@Test
+	void TestSum()
+	{
+		assertEquals(30,ar.Sub(10, 20) );
+	}
+
+}

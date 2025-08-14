@@ -1,0 +1,9 @@
+package com.sample;
+
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import com.sample.Controllers.*;
+
+@WebMvcTest(OrdersController.class)
+public class OrdersControllerTest {
+
+}
